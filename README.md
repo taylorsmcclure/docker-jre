@@ -10,5 +10,5 @@ Lean JRE 8 Docker image, based on Alpine Linux 3.7 and OpenJDK 8.
 ## Usage
 
 ```
-docker pull quay.io/pires/docker-jre:8u151
+docker pull taylorsmcclure/docker-jre:8u151
 ```
